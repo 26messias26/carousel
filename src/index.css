@@ -13,7 +13,7 @@ body{
     height: 100vh;
 }
 
-.carrocel{
+.carousel{
     height: 300px;
     overflow-x: hidden;
 }
